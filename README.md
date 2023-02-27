@@ -9,4 +9,4 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-S3-569A31.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-EC2-FF9900.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![MYSQL](https://img.shields.io/badge/AWS-EC2-4479A1.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![MYSQL](https://img.shields.io/badge/Mysql-4479A1.svg?&style=for-the-badge&logo=Java&logoColor=white)
