@@ -6,4 +6,4 @@
 ### Skill 🌱
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
-![AWS](https://img.shields.io/badge/Aws-569A31.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![AWS](https://img.shields.io/badge/S3-569A31.svg?&style=for-the-badge&logo=Java&logoColor=white)
